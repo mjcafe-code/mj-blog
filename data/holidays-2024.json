@@ -1,0 +1,89 @@
+{
+  "_meta": {
+    "year": "2024",
+    "source": "한국천문연구원 특일정보 (MerciHanrim/mjcafe-data 에서 이전)",
+    "updated": "2026-11-10T15:28:20.107333+00:00"
+  },
+  "holidays": {
+    "20240101": {
+      "name": "1월1일",
+      "isHoliday": true
+    },
+    "20240209": {
+      "name": "설날",
+      "isHoliday": true
+    },
+    "20240210": {
+      "name": "설날",
+      "isHoliday": true
+    },
+    "20240211": {
+      "name": "설날",
+      "isHoliday": true
+    },
+    "20240212": {
+      "name": "대체공휴일(설날)",
+      "isHoliday": true
+    },
+    "20240301": {
+      "name": "삼일절",
+      "isHoliday": true
+    },
+    "20240410": {
+      "name": "국회의원선거",
+      "isHoliday": true
+    },
+    "20240505": {
+      "name": "어린이날",
+      "isHoliday": true
+    },
+    "20240506": {
+      "name": "대체공휴일(어린이날)",
+      "isHoliday": true
+    },
+    "20240515": {
+      "name": "부처님오신날",
+      "isHoliday": true
+    },
+    "20240606": {
+      "name": "현충일",
+      "isHoliday": true
+    },
+    "20240717": {
+      "name": "제헌절",
+      "isHoliday": false
+    },
+    "20240815": {
+      "name": "광복절",
+      "isHoliday": true
+    },
+    "20240916": {
+      "name": "추석",
+      "isHoliday": true
+    },
+    "20240917": {
+      "name": "추석",
+      "isHoliday": true
+    },
+    "20240918": {
+      "name": "추석",
+      "isHoliday": true
+    },
+    "20241001": {
+      "name": "임시공휴일",
+      "isHoliday": true
+    },
+    "20241003": {
+      "name": "개천절",
+      "isHoliday": true
+    },
+    "20241009": {
+      "name": "한글날",
+      "isHoliday": true
+    },
+    "20241225": {
+      "name": "기독탄신일",
+      "isHoliday": true
+    }
+  }
+}

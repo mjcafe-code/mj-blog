@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "year": "2027",
+    "month": "02",
+    "source": "천문 계산(Meeus, KST) · 2024–2026 한국천문연구원 자료와 일치 확인",
+    "updated": "2026-11-10T15:28:20.107333+00:00"
+  },
+  "lunar": {
+    "20270201": {
+      "lunMonth": "12",
+      "lunDay": "25",
+      "lunLeapmonth": "평"
+    },
+    "20270202": {
+      "lunMonth": "12",
+      "lunDay": "26",
+      "lunLeapmonth": "평"
+    },
+    "20270203": {
+      "lunMonth": "12",
+      "lunDay": "27",
+      "lunLeapmonth": "평"
+    },
+    "20270204": {
+      "lunMonth": "12",
+      "lunDay": "28",
+      "lunLeapmonth": "평"
+    },
+    "20270205": {
+      "lunMonth": "12",
+      "lunDay": "29",
+      "lunLeapmonth": "평"
+    },
+    "20270206": {
+      "lunMonth": "12",
+      "lunDay": "30",
+      "lunLeapmonth": "평"
+    },
+    "20270207": {
+      "lunMonth": "01",
+      "lunDay": "01",
+      "lunLeapmonth": "평"
+    },
+    "20270208": {
+      "lunMonth": "01",
+      "lunDay": "02",
+      "lunLeapmonth": "평"
+    },
+    "20270209": {
+      "lunMonth": "01",
+      "lunDay": "03",
+      "lunLeapmonth": "평"
+    },
+    "20270210": {
+      "lunMonth": "01",
+      "lunDay": "04",
+      "lunLeapmonth": "평"
+    },
+    "20270211": {
+      "lunMonth": "01",
+      "lunDay": "05",
+      "lunLeapmonth": "평"
+    },
+    "20270212": {
+      "lunMonth": "01",
+      "lunDay": "06",
+      "lunLeapmonth": "평"
+    },
+    "20270213": {
+      "lunMonth": "01",
+      "lunDay": "07",
+      "lunLeapmonth": "평"
+    },
+    "20270214": {
+      "lunMonth": "01",
+      "lunDay": "08",
+      "lunLeapmonth": "평"
+    },
+    "20270215": {
+      "lunMonth": "01",
+      "lunDay": "09",
+      "lunLeapmonth": "평"
+    },
+    "20270216": {
+      "lunMonth": "01",
+      "lunDay": "10",
+      "lunLeapmonth": "평"
+    },
+    "20270217": {
+      "lunMonth": "01",
+      "lunDay": "11",
+      "lunLeapmonth": "평"
+    },
+    "20270218": {
+      "lunMonth": "01",
+      "lunDay": "12",
+      "lunLeapmonth": "평"
+    },
+    "20270219": {
+      "lunMonth": "01",
+      "lunDay": "13",
+      "lunLeapmonth": "평"
+    },
+    "20270220": {
+      "lunMonth": "01",
+      "lunDay": "14",
+      "lunLeapmonth": "평"
+    },
+    "20270221": {
+      "lunMonth": "01",
+      "lunDay": "15",
+      "lunLeapmonth": "평"
+    },
+    "20270222": {
+      "lunMonth": "01",
+      "lunDay": "16",
+      "lunLeapmonth": "평"
+    },
+    "20270223": {
+      "lunMonth": "01",
+      "lunDay": "17",
+      "lunLeapmonth": "평"
+    },
+    "20270224": {
+      "lunMonth": "01",
+      "lunDay": "18",
+      "lunLeapmonth": "평"
+    },
+    "20270225": {
+      "lunMonth": "01",
+      "lunDay": "19",
+      "lunLeapmonth": "평"
+    },
+    "20270226": {
+      "lunMonth": "01",
+      "lunDay": "20",
+      "lunLeapmonth": "평"
+    },
+    "20270227": {
+      "lunMonth": "01",
+      "lunDay": "21",
+      "lunLeapmonth": "평"
+    },
+    "20270228": {
+      "lunMonth": "01",
+      "lunDay": "22",
+      "lunLeapmonth": "평"
+    }
+  }
+}

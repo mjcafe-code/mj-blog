@@ -1,0 +1,105 @@
+{
+  "_meta": {
+    "year": "2027",
+    "source": "우주항공청 2027년도 월력요항(2026.6.29 고시)",
+    "updated": "2026-11-10T15:28:20.107333+00:00"
+  },
+  "holidays": {
+    "20270101": {
+      "name": "1월1일",
+      "isHoliday": true
+    },
+    "20270206": {
+      "name": "설날",
+      "isHoliday": true
+    },
+    "20270207": {
+      "name": "설날",
+      "isHoliday": true
+    },
+    "20270208": {
+      "name": "설날",
+      "isHoliday": true
+    },
+    "20270209": {
+      "name": "대체공휴일(설날)",
+      "isHoliday": true
+    },
+    "20270301": {
+      "name": "삼일절",
+      "isHoliday": true
+    },
+    "20270501": {
+      "name": "노동절",
+      "isHoliday": true
+    },
+    "20270503": {
+      "name": "대체공휴일(노동절)",
+      "isHoliday": true
+    },
+    "20270505": {
+      "name": "어린이날",
+      "isHoliday": true
+    },
+    "20270513": {
+      "name": "부처님오신날",
+      "isHoliday": true
+    },
+    "20270606": {
+      "name": "현충일",
+      "isHoliday": true
+    },
+    "20270717": {
+      "name": "제헌절",
+      "isHoliday": true
+    },
+    "20270719": {
+      "name": "대체공휴일(제헌절)",
+      "isHoliday": true
+    },
+    "20270815": {
+      "name": "광복절",
+      "isHoliday": true
+    },
+    "20270816": {
+      "name": "대체공휴일(광복절)",
+      "isHoliday": true
+    },
+    "20270914": {
+      "name": "추석",
+      "isHoliday": true
+    },
+    "20270915": {
+      "name": "추석",
+      "isHoliday": true
+    },
+    "20270916": {
+      "name": "추석",
+      "isHoliday": true
+    },
+    "20271003": {
+      "name": "개천절",
+      "isHoliday": true
+    },
+    "20271004": {
+      "name": "대체공휴일(개천절)",
+      "isHoliday": true
+    },
+    "20271009": {
+      "name": "한글날",
+      "isHoliday": true
+    },
+    "20271011": {
+      "name": "대체공휴일(한글날)",
+      "isHoliday": true
+    },
+    "20271225": {
+      "name": "기독탄신일",
+      "isHoliday": true
+    },
+    "20271227": {
+      "name": "대체공휴일(기독탄신일)",
+      "isHoliday": true
+    }
+  }
+}
